@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/eorys/code/hello-cmake/library/generate-static-libraries/lib/libtest.a CMakeFiles/test.dir/src/test2.cpp.o
+/usr/bin/ranlib /home/eorys/code/hello-cmake/library/generate-static-libraries/lib/libtest.a
