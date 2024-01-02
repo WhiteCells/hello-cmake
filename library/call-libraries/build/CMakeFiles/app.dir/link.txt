@@ -1,1 +1,0 @@
-/usr/bin/g++ CMakeFiles/app.dir/main.cpp.o -o app   -L/home/eorys/code/hello-cmake/library/call-libraries/lib  -Wl,-rpath,/home/eorys/code/hello-cmake/library/call-libraries/lib -ltest1 -ltest2 

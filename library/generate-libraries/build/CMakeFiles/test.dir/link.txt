@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,libtest.so -o /home/eorys/code/cmake-learn/hello-cmake/library/generate-libraries/shared-libraries/libtest.so CMakeFiles/test.dir/src/test.cpp.o 

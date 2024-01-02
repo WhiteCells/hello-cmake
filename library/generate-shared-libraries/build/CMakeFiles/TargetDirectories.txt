@@ -1,3 +1,0 @@
-/home/eorys/code/hello-cmake/library/generate-shared-libraries/build/CMakeFiles/test1.dir
-/home/eorys/code/hello-cmake/library/generate-shared-libraries/build/CMakeFiles/edit_cache.dir
-/home/eorys/code/hello-cmake/library/generate-shared-libraries/build/CMakeFiles/rebuild_cache.dir

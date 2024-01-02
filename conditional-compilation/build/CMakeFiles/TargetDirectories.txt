@@ -1,6 +1,0 @@
-/home/eorys/code/hello-cmake/conditional-compilation/build/CMakeFiles/app.dir
-/home/eorys/code/hello-cmake/conditional-compilation/build/CMakeFiles/edit_cache.dir
-/home/eorys/code/hello-cmake/conditional-compilation/build/CMakeFiles/rebuild_cache.dir
-/home/eorys/code/hello-cmake/conditional-compilation/build/src/CMakeFiles/libtest.dir
-/home/eorys/code/hello-cmake/conditional-compilation/build/src/CMakeFiles/edit_cache.dir
-/home/eorys/code/hello-cmake/conditional-compilation/build/src/CMakeFiles/rebuild_cache.dir
